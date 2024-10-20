@@ -1,0 +1,6 @@
+# Dataset
+Data/
+
+# Virtual environment and environment variables
+cancersubtype
+.env
